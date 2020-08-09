@@ -30,7 +30,21 @@ total amount paid to date from the total fee for the project. If the
 customer has already paid the full fee, an invoice should not be
 generated.
 
+## design a UML diagram
+Design your program to meet the specifications given by the client.
+Create a UML diagram that shows the details of all the classes that you
+will use for this program. Your class diagrams should show exactly what
+properties and methods you plan to create for each class. It should also
+show the relationships between classes.
 
 
+
+## Contributors
+
+Hyperion Development
+
+## Licence 
+
+Zanembheko Nyhaba, HyperionDev Student
 
 
